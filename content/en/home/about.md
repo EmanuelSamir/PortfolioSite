@@ -1,16 +1,17 @@
 ---
 title: "About"
-image: "profile.png"
+image: "pic.jpg"
 weight: 8
 ---
 
-A simple introduction of who is **Emanuel Samir**.
+Hello. I am **Emanuel Samir**.
 
-### Who am I?
 
-* Senior Peruvian student at UTEC. 
-* Born in La Oroya, Junin. 
-* Interested in Robotics, Machine Learning, and AI for global or social issues. 
-* Worked on several projects related to surgical manipulator robotics, autonomous robotics, and applied machine learning in control. 
-* Published six papers indexed in IEEE related to robotics and control.  
-* Collaborated with advanced material science project at Yale University facilitated by REPU organization.
+ A pleasure to greet you. The force will be with you. 
+- 🔭 I’m currently working on exploration robotics based on reinforcement learning and safe reinforcement learning at CMU.
+- 🌱 I’m currently learning more about Deep Learning, decentralized apps and web dev.
+- 🏠 Based at our lovely Peru.
+- 💪 I’m looking for collaborating on AI and computer vision projects with real-world applications.
+- 🤔 I’m looking for helping to 🌍.
+- 💬 Talk to me about AI, life, or simple crazy innovative ideas.
+- 📫 Find me on [*Twitter*](https://twitter.com/emanuelsamirmp), on [*LinkedIn*](https://www.linkedin.com/in/emanuelsamirmp/en), or on *emanuel.munoz [at] utec [dot] edu [dot] pe*.

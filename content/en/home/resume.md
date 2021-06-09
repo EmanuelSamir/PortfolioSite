@@ -8,6 +8,6 @@ weight: 10
 
 *Sep 2020 - Currently*
 
-➣ Working and learning with modern and open source stack for tech development.
+➣ Working and learning with modern and open source stack for tech development. \
 ➣ Collaborating in backend and frontend projects oriented to scalable businesses.
 

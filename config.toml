@@ -18,11 +18,11 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
     # Configure the home page
     [params.home]
-        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
+        introHeight              = "medium"                # Input either "medium" or "large" or "fullheight"
         showLatest               = true                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         allPostsArchiveFormat    = true                    # show all posts in an archive format
-        numberOfProjectsToShow   = 2                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+        numberOfProjectsToShow   = 4                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
         timeZone                 = "America/Lima"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "en-US"                 # Language specific format to use
@@ -43,10 +43,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
         url   = "https://twitter.com/emanuelsamirmp"
         icon  = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
-    [[params.social]]
-        url   = "https://www.facebook.com/emanuelsamirm/"
-        icon  = "facebook-f" # icon name without the 'fa-'
-        icon_pack = "fab"
+    # [[params.social]]
+    #     url   = "https://www.facebook.com/emanuelsamirm/"
+    #     icon  = "facebook-f" # icon name without the 'fa-'
+    #     icon_pack = "fab"
     [[params.social]]
         url   = "https://www.linkedin.com/in/emanuelsamirmp/"
         icon  = "linkedin-in" # icon name without the 'fa-'
@@ -62,6 +62,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [[params.social]]
         url   = "https://telegram.me/EmanuelSamir"
         icon  = "paper-plane" # icon name without the 'fa-'
+        icon_pack = "fas"
+    [[params.social]]
+        url   = "https://emanuelsamir.github.io/resume/"
+        icon  = "file-alt" # icon name without the 'fa-'
         icon_pack = "fas"
         #html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
 
@@ -86,10 +90,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
 #[[menu.main]]
 #    name    = "Blog"
 #    url     = "/#resume"
-#    weight  = 2
-#[[menu.main]]
-#    name    = "Contact"
-#    url     = "/#projects"
+# #    weight  = 2
+# [[menu.main]]
+#    name    = "Resume"
+#    url     = "https://twitter.com/emanuelsamirmp"
 #    weight  = 3
 
 
